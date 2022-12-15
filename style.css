@@ -133,7 +133,8 @@ header .container::after {
         }
         header nav .form i {
             color: white;
-
+            position: absolute;
+            font-size: 20px;
 
 
 
