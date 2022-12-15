@@ -135,7 +135,7 @@ header .container::after {
             color: white;
             position: absolute;
             font-size: 20px;
-
+            top: 50%;
 
 
 
