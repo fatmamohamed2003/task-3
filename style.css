@@ -220,6 +220,8 @@ header .container::after {
               border-radius: 50%;
               margin-right: 10px;
             }
-
+            .landing .bullets li.active {
+              background-color: var(--main-color);
+            
 
 
