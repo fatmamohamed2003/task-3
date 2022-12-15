@@ -168,7 +168,9 @@ header .container::after {
             display: flex;
             justify-content: flex-end;
           }
-
+          .landing .text .content {
+            max-width: 500px;
+          }
 
 
 
