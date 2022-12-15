@@ -131,7 +131,8 @@ header .container::after {
             margin-left: 30px;
             border-left: 1px solid white;
         }
-
+        header nav .form i {
+            color: white;
 
 
 
