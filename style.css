@@ -175,7 +175,10 @@ header .container::after {
             .landing .text {
               width: 100%;
             }
-
+            .landing .text .content {
+                max-width: 100%;
+              }
+            }
 
 
 
