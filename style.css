@@ -203,7 +203,9 @@ header .container::after {
             .landing .fa-angle-left {
               left: 30px;
             }
-
+            .landing .fa-angle-right {
+              right: 30px;
+            }
 
 
 
