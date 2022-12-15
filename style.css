@@ -128,6 +128,7 @@ header .container::after {
             width: 40px;
             height: 30px;
             position: relative;
+            margin-left: 30px;
 
 
 
