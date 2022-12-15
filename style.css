@@ -171,6 +171,11 @@ header .container::after {
           .landing .text .content {
             max-width: 500px;
           }
+          @media (max-width: 767px) {
+            .landing .text {
+              width: 100%;
+            }
+
 
 
 
