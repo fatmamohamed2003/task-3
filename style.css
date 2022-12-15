@@ -222,6 +222,8 @@ header .container::after {
             }
             .landing .bullets li.active {
               background-color: var(--main-color);
+              border-color: var(--main-color);
+            }
             
 
 
