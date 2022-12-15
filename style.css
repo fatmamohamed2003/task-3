@@ -52,4 +52,6 @@ margin-right: auto;
         position: relative;
         min-height: 97px;
 }
-
+header .container::after {
+    content: "";
+    position: absolute;
