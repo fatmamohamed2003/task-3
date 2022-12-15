@@ -6,3 +6,9 @@
     padding: 0;
     margin: 0;
   }
+   /* Small */
+@media (min-width: 768px) {
+    .container {
+      width: 750px;
+    }
+  }
