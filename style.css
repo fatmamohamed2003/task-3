@@ -187,7 +187,8 @@ header .container::after {
             }
             .landing .text .content p {
               font-size: 14px;
-
+              line-height: 2;
+            }
 
 
 
