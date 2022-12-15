@@ -39,3 +39,6 @@
         margin-left: auto;
 margin-right: auto;
   }
+  /* Start Header */
+  header {
+    position: absolute;
