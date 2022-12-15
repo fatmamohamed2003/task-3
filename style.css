@@ -146,5 +146,7 @@ header .container::after {
             background-color: #1f2021;
             background-image: url(tree.jpg);
             background-size: cover;
-          
+            position: relative;
+        }
+        
 
