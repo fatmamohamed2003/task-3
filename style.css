@@ -25,3 +25,6 @@
     }
   }
   /* End Global Rules */
+  html {
+    scroll-behavior: smooth;
+  }
