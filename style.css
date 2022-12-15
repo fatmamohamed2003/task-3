@@ -192,7 +192,9 @@ header .container::after {
             .landing .change-background {
               position: absolute;
               top: 50%;
-
+              transform: translateY(-50%);
+              color: #ddd;
+            }
 
 
 
