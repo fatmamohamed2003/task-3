@@ -328,3 +328,4 @@ header .container::after {
 .portfolio .more {
   background-color: var(--main-color);
   color: white;
+  padding: 15px 20px;
