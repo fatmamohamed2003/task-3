@@ -238,5 +238,7 @@ header .container::after {
     grid-row-gap: 60px;
   }
 }
-
+.services .srv-box {
+  display:flex;
+}
 
