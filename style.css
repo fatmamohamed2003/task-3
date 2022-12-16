@@ -337,6 +337,9 @@ header .container::after {
 }
 /* End Portfolio */
 /* Start Design */
+.design{
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 
 
 
