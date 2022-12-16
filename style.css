@@ -398,7 +398,9 @@ header .container::after {
 }
 /* End Design */
 /* Start Video */
-
+.video {
+  position: relative;
+}
 
 
 
