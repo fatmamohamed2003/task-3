@@ -327,4 +327,4 @@ header .container::after {
 }
 .portfolio .more {
   background-color: var(--main-color);
-
+  color: white;
