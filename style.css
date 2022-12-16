@@ -445,6 +445,8 @@ width: 100%;
   position: relative;
   bottom: -120px;
   margin-top: -120px;
+  max-width: 100%;
+}
 
 
 
