@@ -360,7 +360,9 @@ header .container::after {
 .design .image,
 .design .text{
   position: relative;
-
+  z-index: 2;
+  flex: 1;
+}
 
 
 
