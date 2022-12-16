@@ -307,7 +307,8 @@ header .container::after {
 }
 .portfolio .imgs-container .box img {
   max-width: 100%;
-
+  transition: 0.3s;
+}
 
 
 
