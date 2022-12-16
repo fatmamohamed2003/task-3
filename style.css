@@ -331,7 +331,7 @@ header .container::after {
   padding: 15px 20px;
   display: block;
   width: fit-content;
-
+  margin: 30px auto;
 
 
 
