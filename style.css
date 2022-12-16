@@ -231,5 +231,7 @@ header .container::after {
   padding-bottom: var(--section-padding);
 }
 @media (min-width: 768px) {
+  .services .services-container {
+    display: grid;
 
 
