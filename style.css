@@ -255,7 +255,8 @@ header .container::after {
     margin: 0 0 30px;
   }
 }
-
+.services .srv-box h3 {
+  margin-bottom: 30px;
 
 
 
