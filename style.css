@@ -282,6 +282,7 @@ header .container::after {
 }
 .portfolio .imgs-container {
   display: flex;
+  flex-wrap: wrap;
 
 
 
