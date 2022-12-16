@@ -311,6 +311,7 @@ header .container::after {
 }
 .portfolio .imgs-container .box .caption {
   position: absolute;
+  left: 0;
 
 
 
