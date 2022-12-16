@@ -320,4 +320,6 @@ header .container::after {
 }
 .portfolio .imgs-container .box .caption h4{
   font-weight: normal;
+  margin-bottom: 10px;
+}
 
