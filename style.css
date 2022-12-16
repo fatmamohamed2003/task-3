@@ -345,8 +345,9 @@ header .container::after {
   background-image: url("/neon2.jpg");
   background-size: cover;
   display: flex;
-
-
+  align-items: center;
+  overflow: hidden;
+}
 
 
 
