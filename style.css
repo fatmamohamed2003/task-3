@@ -444,6 +444,7 @@ width: 100%;
 .about img{
   position: relative;
   bottom: -120px;
+  margin-top: -120px;
 
 
 
