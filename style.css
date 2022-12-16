@@ -375,6 +375,8 @@ header .container::after {
   position: relative;
   bottom: -150px;
 }
+.design .text{
+  color: white;
 
 
 
