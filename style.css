@@ -226,5 +226,9 @@ header .container::after {
             }
             /* End Landing */
 /* Start Services */
+.services {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
 
 
