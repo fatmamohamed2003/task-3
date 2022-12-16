@@ -443,6 +443,7 @@ width: 100%;
 }
 .about img{
   position: relative;
+  bottom: -120px;
 
 
 
