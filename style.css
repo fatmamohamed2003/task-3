@@ -276,6 +276,8 @@ header .container::after {
 .portfolio .shuffle li {
   padding: 10px;
 }
+.portfolio .shuffle li.active {
+  background-color: var(--main-color);
 
 
 
