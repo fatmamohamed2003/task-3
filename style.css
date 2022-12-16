@@ -287,6 +287,8 @@ header .container::after {
 }
 .portfolio .imgs-container .box {
   overflow: hidden;
+  position: relative;
+}
 
 
 
