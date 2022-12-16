@@ -285,6 +285,8 @@ header .container::after {
   flex-wrap: wrap;
   margin-top: 60px;
 }
+.portfolio .imgs-container .box {
+  overflow: hidden;
 
 
 
