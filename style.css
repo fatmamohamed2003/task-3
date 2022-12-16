@@ -371,7 +371,10 @@ header .container::after {
     display: none;
   }
 }
-
+.design .image img{
+  position: relative;
+  bottom: -150px;
+}
 
 
 
