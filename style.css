@@ -390,6 +390,8 @@ header .container::after {
 }
 .design .text ul li::before{
   font-family: "Font Awesome 5 Free";
+  content: "\f108";
+  font-weight: 900;
 
 
 
