@@ -289,7 +289,9 @@ header .container::after {
   overflow: hidden;
   position: relative;
 }
-
+.portfolio .imgs-container .box:hover .caption {
+  bottom: 0;
+}
 
 
 
