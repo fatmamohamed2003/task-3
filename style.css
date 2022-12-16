@@ -350,7 +350,7 @@ header .container::after {
 }
 .design::before{
   content: "";
-
+  position: absolute;
 
 
 
