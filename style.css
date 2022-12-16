@@ -401,6 +401,9 @@ header .container::after {
 .video {
   position: relative;
 }
+.video::before {
+  content: "";
+  position: absolute;
 
 
 
