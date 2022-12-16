@@ -292,7 +292,9 @@ header .container::after {
 .portfolio .imgs-container .box:hover .caption {
   bottom: 0;
 }
-
+.portfolio .imgs-container .box:hover img {
+  transform: rotate(3deg) scale(1.1);
+}
 
 
 
