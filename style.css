@@ -348,6 +348,9 @@ header .container::after {
   align-items: center;
   overflow: hidden;
 }
+.design::before{
+  content: "";
+
 
 
 
