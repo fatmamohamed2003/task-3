@@ -412,6 +412,8 @@ width: 100%;
 .video .text{
   width: 100%;
   position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
 
 
 
