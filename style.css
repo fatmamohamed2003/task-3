@@ -261,7 +261,8 @@ header .container::after {
 }
 .services .srv-box p {
   line-height: 2;
-
+  color: #777;
+}
 
 
 
