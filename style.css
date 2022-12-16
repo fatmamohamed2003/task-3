@@ -409,6 +409,9 @@ width: 100%;
 .video video {
   width: 100%;
 }
+.video .text{
+  width: 100%;
+  position: absolute;
 
 
 
